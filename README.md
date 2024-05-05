@@ -2,7 +2,7 @@
 
 **Version:** 1.0  
 **API Version:** 1.20  
-**Author:** [Your Name]  
+**Author:** Joseph R. Shumaker (s5y)  
 
 CustomRtp is a simple Minecraft plugin that teleports players to a random location within a specified distance. The plugin allows for customizable sound effects and messages when the teleportation occurs.
 
@@ -40,4 +40,4 @@ The configuration file `config.yml` supports the following options:
 
 ## License
 
-This project is licensed under the Eclipse License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Eclipse Public License - v 2.0 - see the [LICENSE](LICENSE) file for details.
