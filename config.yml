@@ -1,0 +1,19 @@
+#Max distance to teleport (-Distance to +Distance)
+Distance: 100
+
+#===================
+#
+# Sound Effects List:
+#   enderman
+#   explosion
+#   levelup
+#   anvil
+#
+#===================
+
+SoundEffect: "enderman"
+
+
+
+#You can use color codes
+CustomMessage: "&6Teleporting..."
