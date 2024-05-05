@@ -1,4 +1,7 @@
 # CustomRtp
+![Minecraft](https://img.shields.io/badge/Minecraft-1.20+-brightgreen.svg)
+![Spigot](https://img.shields.io/badge/Paper-1.20+-white.svg)
+
 ![Untitled design](https://github.com/s5y-ux/CustomRtp/assets/59636597/1517f162-dbb6-41ec-9c9a-f89138d8a8a6)
 
 
