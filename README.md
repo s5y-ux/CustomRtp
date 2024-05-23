@@ -45,4 +45,4 @@ The configuration file `config.yml` supports the following options:
 
 ## License
 
-This project is licensed under the Eclipse Public License - v 2.0 - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Eclipse Public License - v 2.0 - see the [LICENSE](LICENSE) file for details.h
