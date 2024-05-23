@@ -19,6 +19,12 @@ public class Main extends JavaPlugin {
 		this.config.addDefault("Distance", 100);
 		this.config.addDefault("SoundEffect", "enderman");
 		this.config.addDefault("CustomMessage", "&6Teleporting...");
+		this.config.addDefault("UseTitles", true);
+		this.config.addDefault("Title", "&6Welcome");
+		this.config.addDefault("SubTitle", "Player");
+		this.config.addDefault("FadeIn", 5);
+		this.config.addDefault("Stay", 45);
+		this.config.addDefault("FadeOut", 5);
 		this.saveDefaultConfig();
 	}
 	

@@ -13,7 +13,17 @@ Distance: 100
 
 SoundEffect: "enderman"
 
-
-
-#You can use color codes
+#This is the message the player recieves in the chat when teleporting
 CustomMessage: "&6Teleporting..."
+
+#Do you want to use titles?
+UseTitles: true
+
+#Titles (Remember, these are only avaliable if the above args are -> true <-)
+Title: "&6Welcome"
+SubTitle: "Player"
+
+#Controls the amount of time fading in, staying, and fading out
+FadeIn: 5
+Stay: 45
+FadeOut: 5
